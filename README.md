@@ -1,8 +1,9 @@
 # AirBnb-Price-Prediction-with-Machine-Learning
-Airbnb price prediction using machine learning and EDA on it.
+- Complete Project of Data Analysis And Price prediction on 'Airbnb' using Python Programming And Machine Learning.
+- For Visuals we use the Python libraries like Matplotlib & Seaborn in Anaconda(Jupyter Notebook).
+- For Analysis Dashboard we use MS PowerBi as our analytics tool.
 
 ![image](https://user-images.githubusercontent.com/109715598/216969316-13e17f89-5752-428c-bd74-af007763c235.png)
-
 
 ## Introduction 
 - Airbnb was founded in 2008 as a platform enabling locals to list their homes for short term rental and travelers to have a lodging option alternative to hotels.
